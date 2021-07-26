@@ -1,0 +1,19 @@
+body{
+    background-color: darkcyan;
+    background-image: url('C:/Users/IMGADMIN/Desktop/Gokilavani.jpg');
+    background-attachment: scroll;
+    background-position: right bottom;
+    height: 900px;
+    font-family: 'Roboto', sans-serif ;
+    
+}
+.container{
+ width: 1000px;
+ mergin: 0 auto;
+ background-color: lightblue;
+ padding: 10% 20%;
+}
+.thumbnail {background-color: #eee;}
+body {margin-top: 33px;}
+.thumbnail .caption {background-color: #ddd;
+}
